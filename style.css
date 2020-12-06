@@ -8,10 +8,10 @@
   background-size: cover;
 }
 
-.card-gridless{
-  position: absolute;
+.potato-2{
   bottom: 0;
   transform: translateY(75%);
+  position: relative;
 }
 
 .custom-font {
